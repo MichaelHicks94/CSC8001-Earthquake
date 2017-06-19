@@ -1,5 +1,5 @@
 # CSC8001-Earthquake
-My first piece of coursework for CSC8001. The goal was to create classes to simulate simple earthquake monitoring.  
+My first piece of coursework for CSC8001 (Programming and Data Structures). The goal was to create classes to simulate simple earthquake monitoring. The aims of this coursework was to demonstrate that I can define classes, fields, constructors and methods in Java, use appropriate types such as collections, implement basic algorithms, write a main method including console I/O, devise appropriate test cases and document with Javadoc.
 
 Problem Specification: 
 
